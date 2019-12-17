@@ -12,6 +12,6 @@ def job
 end
 
 def job
-  @job = (job_name) 
+  @job = (job) 
 end 
 end
