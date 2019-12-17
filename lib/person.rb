@@ -1,3 +1,4 @@
+class Person
 def Person 
   @name 
 end
@@ -13,3 +14,4 @@ end
 def job
   @job = (job_name) 
 end 
+end
