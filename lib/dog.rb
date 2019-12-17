@@ -3,7 +3,7 @@
 end
 
 def name = (dog_name)
-  @name = dog
+  @name = name
 end
 
 def breed 
