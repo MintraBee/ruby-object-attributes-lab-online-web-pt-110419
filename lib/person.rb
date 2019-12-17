@@ -3,9 +3,9 @@ def Person
   @name 
 end
 
-def Person 
-  @name = (person_name)
-end
+  def name=(name)
+    @name = name
+  end
 
 def job
   @job
